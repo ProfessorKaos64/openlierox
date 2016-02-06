@@ -5,5 +5,5 @@ Type=Application
 Comment=A real-time excessive Worms-clone
 Exec=/usr/games/openlierox
 TryExec=/usr/games/openlierox
-Icon=OpenLieroX
+Icon=/usr/share/pixmaps/openlierox.png
 Categories=Game;
