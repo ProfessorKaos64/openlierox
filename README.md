@@ -24,6 +24,18 @@ OpenLieroX is based on Jason Boettcher's famous Liero Xtreme.
 
 Jason B. has released his work in 2006 under the zlib-licence and after some months of work, we ported and enhanced his work and got OpenLieroX.
 
+## Optional Prerequisites
+For ease of use when installing on SteamOS, please add the SteamOS-Tools repositories:
+
+* [addingSteamOS-Tools repositories automatically](https://github.com/ProfessorKaos64/SteamOS-Tools)
+* [addingSteamOS-Tools repositories manually](https://github.com/ProfessorKaos64/SteamOS-Tools/wiki/SteamOS-Tools-Repository)
+
+## Installation
+Please see the releases page for the latest information.
+
+```
+sudo apt-get install openlierox
+```
 
 ## Compilation
 
